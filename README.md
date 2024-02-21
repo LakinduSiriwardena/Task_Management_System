@@ -16,5 +16,4 @@ Traversal Method:
   -In Order Traversal
 
 Description:
-  -The program is purposed to manage your time with your tasks according to the priority ascending order. the program is also capable of managing the tasks in a way that the most time consuming tasks to be done at the beginning or least time consuming tasks to be done in the beginning. the user has the freedom to choose whatever organising method available.
-    After selecting a method to manage the tasks, the program is also capable of starting a focus session where it'll start a timer for you to start completing your task and achieve your goals.
+This project focuses mainly on a Task Management System. Aimed at bolstering productivity, the system allows users to input, organize, and prioritize tasks efficiently. Through a console interface, users can manage tasks based on priority and estimated completion time. The report delves into the system's design, implementation, and features, providing insights into its functionality. Additionally, it discusses potential enhancements to further improve user experience and productivity. By offering a structured approach to task management, this system aims to empower users to effectively manage their workload and achieve their goals with greater efficiency.
